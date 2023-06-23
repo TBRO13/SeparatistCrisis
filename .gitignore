@@ -1,3 +1,6 @@
 *.sln
 *.csproj
 *.pdb
+bin/
+.vs/
+obj/

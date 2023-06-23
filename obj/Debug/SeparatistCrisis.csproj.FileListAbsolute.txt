@@ -1,0 +1,7 @@
+C:\Users\kevin\Documents\Projects\BannerlordBase\SeparatistCrisis\obj\Debug\SeparatistCrisis.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\Projects\BannerlordBase\SeparatistCrisis\obj\Debug\SeparatistCrisis.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Separatist Crisis Main\bin\Win64_Shipping_Client\SeparatistCrisis.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Separatist Crisis Main\bin\Win64_Shipping_Client\SeparatistCrisis.pdb
+C:\Users\kevin\Documents\Projects\BannerlordBase\SeparatistCrisis\obj\Debug\SeparatistCrisis.csproj.CopyComplete
+C:\Users\kevin\Documents\Projects\BannerlordBase\SeparatistCrisis\obj\Debug\SeparatistCrisis.dll
+C:\Users\kevin\Documents\Projects\BannerlordBase\SeparatistCrisis\obj\Debug\SeparatistCrisis.pdb

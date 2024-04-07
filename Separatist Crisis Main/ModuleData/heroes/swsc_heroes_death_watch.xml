@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+		<!--House Vizsla-->
+
+	<Hero
+		id="vizsla"
+		faction="Faction.house_vizsla"
+		text="Placeholder" />
+
+	<Hero
+		id="paz"
+		faction="Faction.house_vizsla"
+		text="Placeholder" />
+
+	<Hero
+		id="eeguun"
+		faction="Faction.house_vizsla"
+		text="Placeholder" />
+
+	<Hero
+		id="zhan"
+		faction="Faction.house_vizsla"
+		text="Placeholder" />
+
+	<Hero
+		id="jaro"
+		faction="Faction.house_vizsla"
+		text="Placeholder" />
+
+	<Hero
+		id="drak"
+		faction="Faction.house_vizsla"
+		text="Placeholder" />
+
+	<Hero
+		id="tarre"
+		alive="false"
+		faction="Faction.house_vizsla"
+		text="Placeholder" />
+
+	<Hero
+		id="tor"
+		alive="false"
+		faction="Faction.house_vizsla"
+		text="Placeholder" />
+
+		<!--House Kryze-->
+
+	<Hero
+		id="katan"
+		father="Hero.adonai"
+		faction="Faction.house_kryze"
+		text="Placeholder" />
+
+	<Hero
+		id="korkie"
+		father="Hero.kenobi"
+		mother="Hero.satine"
+		faction="Faction.house_kryze"
+		text="Placeholder" />
+
+	<Hero
+		id="koska"
+		faction="Faction.house_kryze"
+		text="Placeholder" />
+
+	<Hero
+		id="axe"
+		faction="Faction.house_kryze"
+		text="Placeholder" />
+
+		<!--Clan Wren-->
+
+	<Hero
+		id="ursa"
+		spouse="Hero.alrich"
+		faction="Faction.clan_wren"
+		text="Placeholder" />
+
+	<Hero
+		id="alrich"
+		faction="Faction.clan_wren"
+		text="Placeholder" />
+
+	<Hero
+		id="sabine"
+		father="Hero.alrich"
+		mother="Hero.ursa"
+		faction="Faction.clan_wren"
+		text="Placeholder" />
+
+	<Hero
+		id="tristan"
+		father="Hero.alrich"
+		mother="Hero.ursa"
+		faction="Faction.clan_wren"
+		text="Placeholder" />
+
+		<!--Clan Fett-->
+
+	<Hero
+		id="boba"
+		father="Hero.jango"
+		faction="Faction.clan_fett"
+		text="Placeholder" />
+
+	<Hero
+		id="sintas"
+		spouse="Hero.boba"
+		faction="Faction.clan_fett"
+		text="Placeholder" />
+
+	<Hero
+		id="jorad"
+		faction="Faction.clan_fett"
+		text="Placeholder" />
+
+	<Hero
+		id="adonai"
+		faction="Faction.clan_fett"
+		text="Placeholder" />
+
+	<Hero
+		id="arla"
+		faction="Faction.clan_fett"
+		text="Placeholder" />
+
+	<Hero
+		id="cassus"
+		alive="false"
+		faction="Faction.clan_fett"
+		text="Placeholder" />
+
+	<Hero
+		id="jaster"
+		alive="false"
+		faction="Faction.clan_fett"
+		text="Placeholder" />
+
+		<!--House Kast-->
+
+	<Hero
+		id="rook"
+		faction="Faction.house_kast"
+		text="Placeholder" />
+
+	<Hero
+		id="veraslayn"
+		faction="Faction.house_kast"
+		text="Placeholder" />
+
+	<Hero
+		id="rhal"
+		faction="Faction.house_kast"
+		text="Placeholder" />
+
+	<Hero
+		id="tome"
+		faction="Faction.house_kast"
+		text="Placeholder" />
+
+	<Hero
+		id="videk"
+		faction="Faction.house_kast"
+		text="Placeholder" />
+
+	<Hero
+		id="troch"
+		faction="Faction.house_kast"
+		text="Placeholder" />
+
+		<!--Clan Saxon-->
+
+	<Hero
+		id="gar"
+		faction="Faction.clan_saxon"
+		text="Placeholder" />
+
+	<Hero
+		id="jag"
+		faction="Faction.clan_saxon"
+		text="Placeholder" />
+
+	<Hero
+		id="nakil"
+		faction="Faction.clan_saxon"
+		text="Placeholder" />
+
+	<Hero
+		id="iviin"
+		faction="Faction.clan_saxon"
+		text="Placeholder" />
+
+	<Hero
+		id="resol"
+		faction="Faction.clan_saxon"
+		text="Placeholder" />
+
+</Heroes>

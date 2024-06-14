@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+		<!--New Mandalorians-->
+
+	<Hero
+		id="satine"
+		father="Hero.adonai"
+		faction="Faction.new_mandalorians"
+		text="Placeholder" />
+
+	<Hero
+		id="adonai"
+		alive="false"
+		faction="Faction.new_mandalorians"
+		text="Placeholder" />
+
+	<Hero
+		id="almec"
+		faction="Faction.new_mandalorians"
+		text="Placeholder" />
+
+	<Hero
+		id="merrik"
+		faction="Faction.new_mandalorians"
+		text="Placeholder" />
+
+	<Hero
+		id="armatan"
+		faction="Faction.new_mandalorians"
+		text="Placeholder" />
+
+	<Hero
+		id="jerec"
+		alive="false"
+		faction="Faction.new_mandalorians"
+		text="Placeholder" />
+
+	<Hero
+		id="patrok"
+		faction="Faction.new_mandalorians"
+		text="Placeholder" />
+
+		<!--Grand Protectorate of Rodia-->
+
+	<Hero
+		id="onaconda"
+		faction="Faction.rodia"
+		text="Placeholder" />
+
+	<Hero
+		id="lolo"
+		faction="Faction.rodia"
+		text="Placeholder" />
+
+	<Hero
+		id="navik"
+		faction="Faction.rodia"
+		text="Placeholder" />
+
+		<!--Republic of Taris-->
+
+	<Hero
+		id="robb"
+		faction="Faction.taris"
+		text="Placeholder" />
+
+	<Hero
+		id="tynnra"
+		faction="Faction.taris"
+		text="Placeholder" />
+
+	<Hero
+		id="peccati"
+		faction="Faction.taris"
+		text="Placeholder" />
+
+	<Hero
+		id="brejik"
+		faction="Faction.taris"
+		text="Placeholder" />
+
+	<Hero
+		id="gadon"
+		faction="Faction.taris"
+		text="Placeholder" />
+
+
+</Heroes>
+

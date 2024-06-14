@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+		<!--Hutt Cartel-->
+
+	<Hero
+		id="jabba"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="arok"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="gorga"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="marlo"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="oruba"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="aurra"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="fennec"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="embo"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="lourna"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="latts"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="bossk"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="dengar"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+	<Hero
+		id="shmi"
+		spouse="Hero.damask"
+		alive="false"
+		faction="Faction.hutt_cartel"
+		text="Placeholder" />
+
+		<!--Black Sun-->
+
+	<Hero
+		id="grunseit"
+		faction="Faction.black_sun"
+		text="Placeholder" />
+
+	<Hero
+		id="ziton"
+		faction="Faction.black_sun"
+		text="Placeholder" />
+
+	<Hero
+		id="lemelisk"
+		faction="Faction.black_sun"
+		text="Placeholder" />
+
+	<Hero
+		id="jodo"
+		faction="Faction.black_sun"
+		text="Placeholder" />
+
+	<Hero
+		id="gyuti"
+		faction="Faction.black_sun"
+		text="Placeholder" />
+
+		<!--Pyke Syndicate-->
+
+	<Hero
+		id="lom"
+		faction="Faction.pyke_syndicate"
+		text="Placeholder" />
+
+	<Hero
+		id="cad"
+		faction="Faction.pyke_syndicate"
+		text="Placeholder" />
+
+	<Hero
+		id="marg"
+		faction="Faction.pyke_syndicate"
+		text="Placeholder" />
+
+	<Hero
+		id="tolsite"
+		faction="Faction.pyke_syndicate"
+		text="Placeholder" />
+
+	<Hero
+		id="fife"
+		faction="Faction.pyke_syndicate"
+		text="Placeholder" />
+
+</Heroes>
+

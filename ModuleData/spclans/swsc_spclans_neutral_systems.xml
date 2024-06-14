@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You can add new or override old clan entries by adding nodes to this xml. For examples please refer to: SandBox/ModuleData/spclans.xml.-->
+<Factions/>
+
+	<Faction
+		id="new_mandalorians"
+		name="New Mandalorians"
+		tier="6"
+		owner="Hero.satine"
+		culture="Culture.neutral_systems"
+		super_faction="Kingdom.neutral_systems"
+		is_noble="true"
+		banner_key="11.24.4.4922.4922.764.764.1.0.0.529.5.0.152.152.872.873.0.0.0.419.5.0.510.510.764.764.0.0.0.526.5.0.152.152.656.873.0.0.0.527.5.0.152.152.651.654.0.0.0.528.5.0.152.152.877.654.0.0.0" />
+
+	<Faction
+		id="rodia"
+		name="Grand Protectorate of Rodia"
+		tier="5"
+		owner="Hero.onaconda"
+		culture="Culture.neutral_systems"
+		super_faction="Kingdom.neutral_systems"
+		is_noble="true"
+		banner_key="11.24.4.4922.4922.764.764.1.0.0.529.5.0.152.152.872.873.0.0.0.419.5.0.510.510.764.764.0.0.0.526.5.0.152.152.656.873.0.0.0.527.5.0.152.152.651.654.0.0.0.528.5.0.152.152.877.654.0.0.0" />
+
+	<Faction
+		id="taris"
+		name="Republic of Taris"
+		tier="5"
+		owner="Hero.robb"
+		culture="Culture.neutral_systems"
+		super_faction="Kingdom.neutral_systems"
+		is_noble="true"
+		banner_key="11.24.4.4922.4922.764.764.1.0.0.529.5.0.152.152.872.873.0.0.0.419.5.0.510.510.764.764.0.0.0.526.5.0.152.152.656.873.0.0.0.527.5.0.152.152.651.654.0.0.0.528.5.0.152.152.877.654.0.0.0" />
+
+</Factions>

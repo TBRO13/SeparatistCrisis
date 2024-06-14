@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+		<!--Executive Separatist Council-->
+
+	<Hero
+		id="dooku"
+		father="Hero.anya"
+		mother="Hero.gora"
+		faction="Faction.separatist_council"
+		text="Placeholder" />
+
+	<Hero
+		id="anya"
+		spouse="Hero.gora"
+		alive="false"
+		faction="Faction.separatist_council"
+		text="Placeholder" />
+
+	<Hero
+		id="gora"
+		alive="false"
+		faction="Faction.separatist_council"
+		text="Placeholder" />
+
+	<Hero
+		id="argente"
+		faction="Faction.separatist_council"
+		text="Placeholder" />
+
+	<Hero
+		id="nudo"
+		faction="Faction.separatist_council"
+		text="Placeholder" />
+
+	<Hero
+		id="rogwa"
+		faction="Faction.separatist_council"
+		text="Placeholder" />
+
+	<Hero
+		id="tikkes"
+		faction="Faction.separatist_council"
+		text="Placeholder" />
+
+		<!--Separatist Senate-->
+
+	<Hero
+		id="lawise"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="singh"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="mina"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="lux"
+		mother="Hero.mina"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="atell"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="bluss"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="fonti"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="kushi"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="rimbaud"
+		faction="Faction.separatist_senate"
+		text="Placeholder" />
+
+		<!--Separatist Droid Army-->
+
+	<Hero
+		id="grievous"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="trench"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="sevrance"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="cyreltov"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="durd"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="kalani"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="loathsom"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="coburn"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="rackham"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="ventress"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+	<Hero
+		id="tamson"
+		faction="Faction.separatist_army"
+		text="Placeholder" />
+
+		<!--Mandalorian Protectors-->
+
+	<Hero
+		id="spar"
+		faction="Faction.mandalorian_protectors"
+		text="Placeholder" />
+
+	<Hero
+		id="shysa"
+		faction="Faction.mandalorian_protectors"
+		text="Placeholder" />
+
+	<Hero
+		id="rau"
+		faction="Faction.mandalorian_protectors"
+		text="Placeholder" />
+
+		<!--Techno Union-->
+
+	<Hero
+		id="tambor"
+		faction="Faction.techno_union"
+		text="Placeholder" />
+
+	<Hero
+		id="gume"
+		faction="Faction.techno_union"
+		text="Placeholder" />
+
+	<Hero
+		id="teska"
+		faction="Faction.techno_union"
+		text="Placeholder" />
+
+	<Hero
+		id="umbrag"
+		faction="Faction.techno_union"
+		text="Placeholder" />
+
+	<Hero
+		id="dantor"
+		faction="Faction.techno_union"
+		text="Placeholder" />
+
+		<!--Trade Federation-->
+
+	<Hero
+		id="gunray"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+	<Hero
+		id="dod"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+	<Hero
+		id="haako"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+	<Hero
+		id="hadocrassk"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+	<Hero
+		id="gilramos"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+	<Hero
+		id="monchar"
+		alive="false"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+	<Hero
+		id="harro"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+	<Hero
+		id="hokan"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+	<Hero
+		id="greedo"
+		faction="Faction.trade_federation"
+		text="Placeholder" />
+
+		<!--Commerce Guild-->
+
+	<Hero
+		id="shu"
+		faction="Faction.commerce_guild"
+		text="Placeholder" />
+
+	<Hero
+		id="stark"
+		faction="Faction.commerce_guild"
+		text="Placeholder" />
+
+	<Hero
+		id="beolars"
+		faction="Faction.commerce_guild"
+		text="Placeholder" />
+
+	<Hero
+		id="miin"
+		faction="Faction.commerce_guild"
+		text="Placeholder" />
+
+		<!--Corporate Alliance-->
+
+	<Hero
+		id="dassyne"
+		faction="Faction.corporate_alliance"
+		text="Placeholder" />
+
+	<Hero
+		id="denaria"
+		faction="Faction.corporate_alliance"
+		text="Placeholder" />
+
+	<Hero
+		id="riske"
+		faction="Faction.corporate_alliance"
+		text="Placeholder" />
+
+	<Hero
+		id="magus"
+		faction="Faction.corporate_alliance"
+		text="Placeholder" />
+
+		<!--Geonosian Hive-->
+
+	<Hero
+		id="poggle"
+		faction="Faction.geonosis"
+		text="Placeholder" />
+
+	<Hero
+		id="karina"
+		faction="Faction.geonosis"
+		text="Placeholder" />
+
+	<Hero
+		id="fac"
+		faction="Faction.geonosis"
+		text="Placeholder" />
+
+	<Hero
+		id="klik"
+		faction="Faction.geonosis"
+		text="Placeholder" />
+
+	<Hero
+		id="pehk"
+		faction="Faction.geonosis"
+		text="Placeholder" />
+
+		<!--Zygerrian Slave Empire-->
+
+	<Hero
+		id="scintel"
+		faction="Faction.zygerria"
+		text="Placeholder" />
+
+	<Hero
+		id="molec"
+		faction="Faction.zygerria"
+		text="Placeholder" />
+
+	<Hero
+		id="darts"
+		faction="Faction.zygerria"
+		text="Placeholder" />
+
+	<Hero
+		id="agruss"
+		faction="Faction.zygerria"
+		text="Placeholder" />
+
+	<Hero
+		id="jorec"
+		faction="Faction.zygerria"
+		text="Placeholder" />
+
+	<Hero
+		id="mard"
+		faction="Faction.zygerria"
+		text="Placeholder" />
+
+	<Hero
+		id="zolghast"
+		faction="Faction.zygerria"
+		text="Placeholder" />
+
+		<!--Umbaran Government-->
+
+	<Hero
+		id="deechi"
+		faction="Faction.umbara"
+		text="Placeholder" />
+
+	<Hero
+		id="moore"
+		faction="Faction.umbara"
+		text="Placeholder" />
+	<Hero
+		id="tormo"
+		faction="Faction.umbara"
+		text="Placeholder" />
+
+	<Hero
+		id="cuvin"
+		faction="Faction.umbara"
+		text="Placeholder" />
+
+	<Hero
+		id="hurati"
+		faction="Faction.umbara"
+		text="Placeholder" />
+
+</Heroes>
+

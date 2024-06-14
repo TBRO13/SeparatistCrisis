@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+	<!--lords.xml-->
+
+	<!--Galactic Senate-->
+
+	<Hero
+		id="palpatine"
+		father="Hero.cosinga"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="bail"
+		spouse="Hero.breha"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="breha"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="amedda"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="jarjar"
+		father="Hero.george"
+		mother="Hero.otoh"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="burtoni"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="christo"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="chuchi"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="padme"
+		father="Hero.ruwee"
+		mother="Hero.jobal"
+		spouse="Hero.skywalker"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="mothma"
+		spouse="Hero.perrin"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="perrin"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="orn"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="damask"
+		alive="false"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="nakil"
+		alive="false"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+	<Hero
+		id="pavti"
+		alive="false"
+		faction="Faction.galactic_senate"
+		text="Placeholder" />
+
+		<!--Jedi Order-->
+
+	<Hero
+		id="yoda"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="drallig"
+		father="Hero.yoda"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="fisto"
+		father="Hero.yoda"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="jusik"
+		father="Hero.zey"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="zey"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="kota"
+		father="Hero.yoda"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="eeth"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="krell"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="malicos"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="piell"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="ropal"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="shryne"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="skoll"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="saesee"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="tiplar"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="tiplee"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="etain"
+		father="Hero.kal"
+		spouse="Hero.darman"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="tholme"
+		alive="false"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="quinlan"
+		father="Hero.tholme"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="quigon"
+		father="Hero.dooku"
+		alive="false"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="tyvokka"
+		alive="false"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+	<Hero
+		id="gungi"
+		faction="Faction.jedi_order"
+		text="Placeholder" />
+
+		<!--212th Attack Battalion-->
+
+	<Hero
+		id="kenobi"
+		father="Hero.quigon"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="cody"
+		father="Hero.jango"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="mekedrix"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="gregor"
+		father="Hero.jango"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="waxer"
+		father="Hero.jango"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="boil"
+		father="Hero.jango"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="gearshift"
+		father="Hero.jango"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="longshot"
+		father="Hero.jango"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="trapper"
+		father="Hero.jango"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="wooley"
+		father="Hero.jango"
+		faction="Faction.212_battalion"
+		text="Placeholder" />
+
+		<!--104th Attack Battalion-->
+
+	<Hero
+		id="plo"
+		father="Hero.tyvokka"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="wolffe"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="boost"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="comet"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="corvis"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="mortar"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="scope"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="sinker"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="sprint"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="umbra"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="warthog"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+	<Hero
+		id="wildfire"
+		father="Hero.jango"
+		faction="Faction.104_battalion"
+		text="Placeholder" />
+
+		<!--501st Legion-->
+
+	<Hero
+		id="skywalker"
+		mother="Hero.shmi"
+		father="Hero.damask"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="rex"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="ahsoka"
+		mother="Hero.nakil"
+		father="Hero.pavti"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="denal"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="dogma"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="cameron"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="charger"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="echo"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="fives"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="hardcase"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="hawk"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="jesse"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="kix"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="lucky"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="sterling"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+	<Hero
+		id="tup"
+		father="Hero.jango"
+		faction="Faction.501_legion"
+		text="Placeholder" />
+
+		<!--327th Star Corps-->
+
+	<Hero
+		id="secura"
+		spouse="Hero.bly"
+		faction="Faction.327_star"
+		text="Placeholder" />
+
+	<Hero
+		id="bly"
+		father="Hero.jango"
+		faction="Faction.327_star"
+		text="Placeholder" />
+
+	<Hero
+		id="barr"
+		father="Hero.jango"
+		faction="Faction.327_star"
+		text="Placeholder" />
+
+	<Hero
+		id="flash"
+		father="Hero.jango"
+		faction="Faction.327_star"
+		text="Placeholder" />
+
+	<Hero
+		id="galle"
+		father="Hero.jango"
+		faction="Faction.327_star"
+		text="Placeholder" />
+
+	<Hero
+		id="inc"
+		father="Hero.jango"
+		faction="Faction.327_star"
+		text="Placeholder" />
+
+	<Hero
+		id="twelve"
+		father="Hero.jango"
+		faction="Faction.327_star"
+		text="Placeholder" />
+
+	<Hero
+		id="tyto"
+		father="Hero.jango"
+		faction="Faction.327_star"
+		text="Placeholder" />
+
+		<!--21st Nova Corps-->
+
+	<Hero
+		id="mundi"
+		father="Hero.yoda"
+		faction="Faction.21_nova"
+		text="Placeholder" />
+
+	<Hero
+		id="bacara"
+		father="Hero.jango"
+		faction="Faction.21_nova"
+		text="Placeholder" />
+
+	<Hero
+		id="keller"
+		father="Hero.jango"
+		faction="Faction.21_nova"
+		text="Placeholder" />
+
+	<Hero
+		id="rothax"
+		father="Hero.jango"
+		faction="Faction.21_nova"
+		text="Placeholder" />
+
+	<Hero
+		id="toola"
+		father="Hero.jango"
+		faction="Faction.21_nova"
+		text="Placeholder" />
+
+		<!--9th Assault Corps-->
+
+	<Hero
+		id="luminara"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="barriss"
+		mother="Hero.luminara"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="billaba"
+		father="Hero.windu"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="dume"
+		mother="Hero.billaba"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="gree"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="buzz"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="draa"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="kaylon"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="mixx"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="remo"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="soot"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="stance"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="styles"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="tenn"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+	<Hero
+		id="jek"
+		father="Hero.jango"
+		faction="Faction.9_assault"
+		text="Placeholder" />
+
+		<!--91st Reconnaissance Corps-->
+
+	<Hero
+		id="windu"
+		father="Hero.yoda"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+	<Hero
+		id="gallia"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+	<Hero
+		id="stass"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+	<Hero
+		id="neyo"
+		father="Hero.jango"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+	<Hero
+		id="heater"
+		father="Hero.jango"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+	<Hero
+		id="pax"
+		father="Hero.jango"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+	<Hero
+		id="ponds"
+		father="Hero.jango"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+	<Hero
+		id="razor"
+		father="Hero.jango"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+	<Hero
+		id="stak"
+		father="Hero.jango"
+		faction="Faction.91_recon"
+		text="Placeholder" />
+
+		<!--Kamino Cloning-->
+
+	<Hero
+		id="lama"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="nala"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="taun"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="sai"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="kal"
+		father="Hero.munin"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="munin"
+		alive="false"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="niner"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="atin"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="fi"
+		father="Hero.kal"
+		spouse="Hero.parja"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="parja"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="darman"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="aden"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="corr"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="jaing"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="komrk"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="mereel"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="ordo"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="prudii"
+		father="Hero.kal"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="vau"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="boss"
+		father="Hero.vau"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="sev"
+		father="Hero.vau"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="fixer"
+		father="Hero.vau"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="scorch"
+		father="Hero.vau"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="blitz"
+		father="Hero.jango"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="colt"
+		father="Hero.jango"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="havoc"
+		father="Hero.jango"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="jango"
+		alive="false"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="ampa"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="gilamar"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="priest"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="wade"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+	<Hero
+		id="ward"
+		faction="Faction.kamino"
+		text="Placeholder" />
+
+		<!--Royal House of Naboo-->
+
+	<Hero
+		id="cosinga"
+		alive="false"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="george"
+		alive="false"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="otoh"
+		alive="false"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="ruwee"
+		spouse="Hero.jobal"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="ryoo"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="jobal"
+		mother="Hero.ryoo"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="sola"
+		father="Hero.ruwee"
+		mother="Hero.jobal"
+		spouse="Hero.darred"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="darred"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="bibble"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="brandes"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="eckener"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="tane"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="dannt"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="habble"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="quarsh"
+		spouse="Hero.mariek"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="mariek"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="lufta"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="typho"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+	<Hero
+		id="vancil"
+		faction="Faction.naboo"
+		text="Placeholder" />
+
+		<!--Wookie Council-->
+
+	<Hero
+		id="grakchawwaa"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="attimun"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="chewbacca"
+		spouse="Hero.mallatobuck"
+		father="Hero.attichitcuk"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="attichitcuk"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="mallatobuck"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="eugroothwa"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="grabow"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="alrrark"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="guania"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="guanta"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="gumbaeki"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="lachichuk"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="tarfful"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="merumeru"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+	<Hero
+		id="clausito"
+		faction="Faction.wookie"
+		text="Placeholder" />
+
+		<!--Chiss Ascendancy-->
+
+	<Hero
+		id="thrass"
+		father="Hero.thooraki"
+		faction="Faction.chiss"
+		text="Placeholder" />
+
+	<Hero
+		id="thrawn"
+		father="Hero.thooraki"
+		faction="Faction.chiss"
+		text="Placeholder" />
+
+	<Hero
+		id="thooraki"
+		alive="false"
+		faction="Faction.chiss"
+		text="Placeholder" />
+
+	<Hero
+		id="borika"
+		faction="Faction.chiss"
+		text="Placeholder" />
+
+	<Hero
+		id="ziara"
+		faction="Faction.chiss"
+		text="Placeholder" />
+
+	<Hero
+		id="dylothe"
+		faction="Faction.chiss"
+		text="Placeholder" />
+
+	<Hero
+		id="azmordi"
+		faction="Faction.chiss"
+		text="Placeholder" />
+
+
+</Heroes>
+
+
+

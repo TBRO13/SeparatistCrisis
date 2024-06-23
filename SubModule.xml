@@ -6,11 +6,6 @@
 	<ModuleCategory value="Singleplayer"/>
 	<Official value="false"/>
 	<DependedModules>
-		<DependedModule Id="Native"/>
-		<DependedModule Id="SandBoxCore"/>
-		<DependedModule Id="Sandbox"/>
-		<DependedModule Id="CustomBattle"/>
-		<DependedModule Id="StoryMode"/>
 	</DependedModules>
 	<SubModules/>
 	<Xmls>
